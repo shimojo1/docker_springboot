@@ -1,7 +1,7 @@
 Docker-SpringBoot
 ------------
 
-DockerでSpringBootの実行環境を作成できるパッケージです。
+DockerでSpringBoot-mysqlの実行環境を作成できるパッケージです。
 
 ### 環境作成方法
 
